@@ -6,5 +6,7 @@ Fahad Naif
 #include <stdio.h>
 int main(void)  {
   printf("Hello World!\n");
+  printf("Ben Faubel\n");\
+  printf("Computer Science\n");
   return 0;
 }
