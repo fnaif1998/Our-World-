@@ -4,7 +4,10 @@
 #include "array_utils.h"
 
 //Function Definitions
-int contains(const int *arr, int size, int x){}
+int contains(const int *arr, int size, int x){
+
+  printf("This is testing!\n");
+}
 
 
 
